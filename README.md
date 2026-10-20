@@ -4,7 +4,7 @@
 > **Track:** Coding Track  
 > **Category:** Biology/Medical and Environmental Science  
 > **Hosts:** Eureka Institute & UnivaDev  
-> **Live Demo:** [https://ecosense-ai.fly.dev](https://ecosense-ai.fly.dev)  
+> **Live Demo:** [https://ecosense-ai-2026.fly.dev](https://ecosense-ai-2026.fly.dev)  
 > **Repository:** [https://github.com/peddipedderu/ecosense-ai](https://github.com/peddipedderu/ecosense-ai)
 
 ---
